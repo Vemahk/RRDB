@@ -30,8 +30,8 @@ However, NoSQL is not the solution to *all* of your problems, *either*. Just lik
 
 ## ORMs
 
-My idea does not differ entirely from ORMs, except that ORMs just abstract away SQL, and it SQL I take issue with.
+My idea does not differ entirely from ORMs, except that ORMs just abstract away SQL, and it is SQL that I take issue with.
 
 # Do you actually intend to replace SQL?
 
-No, not really. I just had an idea, and I really enjoy to program. This realistically isn't actually going anywhere. I just like you dream, you know?
+No, not really. I just had an idea, and I really enjoy programing. This realistically isn't actually going anywhere. I just like you dream, you know?
