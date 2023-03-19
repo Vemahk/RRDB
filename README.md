@@ -34,4 +34,4 @@ My idea does not differ entirely from ORMs, except that ORMs just abstract away 
 
 # Do you actually intend to replace SQL?
 
-No, not really. I just had an idea, and I really enjoy programing. This realistically isn't actually going anywhere. I just like you dream, you know?
+No, not really. I just had an idea, and I really enjoy programming. This realistically isn't actually going anywhere. I just like you dream, you know?
